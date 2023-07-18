@@ -1,1 +1,4 @@
-# Basics-of-Php
+<?php
+    $name = "John";
+    $age = 30;
+?>
